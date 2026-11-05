@@ -1,4 +1,5 @@
 # datagovin-mcp
+![Claude answering a GDP question using datagovin-mcp](docs/demo.gif)
 
 An [MCP](https://modelcontextprotocol.io) server that lets LLMs like Claude search and query
 **India's Open Government Data platform ([data.gov.in](https://data.gov.in))**: GDP, trade,
