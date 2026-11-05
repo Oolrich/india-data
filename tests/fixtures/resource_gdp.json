@@ -1,0 +1,110 @@
+{
+ "index_name": "a56b86d1-f00e-4ee4-ab08-5b5367b3fab2",
+ "title": "Quarterly Estimates of GDP at Constant (2011-12) Prices from 2011-12 to 2022-23",
+ "updated_date": "2023-02-13T14:10:19Z",
+ "org": [
+  "Ministry of Statistics and Programme Implementation"
+ ],
+ "field": [
+  {
+   "id": "document_id",
+   "name": "document_id",
+   "type": "double"
+  },
+  {
+   "id": "item",
+   "name": "Item",
+   "type": "keyword"
+  },
+  {
+   "id": "value_rs_in_crore___2020_21___q1",
+   "name": "Value (Rs. in crore) - 2020-21 - Q1",
+   "type": "double"
+  },
+  {
+   "id": "value_rs_in_crore___2020_21___q2",
+   "name": "Value (Rs. in crore) - 2020-21 - Q2",
+   "type": "double"
+  },
+  {
+   "id": "value_rs_in_crore___2020_21___q3",
+   "name": "Value (Rs. in crore) - 2020-21 - Q3",
+   "type": "double"
+  },
+  {
+   "id": "value_rs_in_crore___2020_21___q4",
+   "name": "Value (Rs. in crore) - 2020-21 - Q4",
+   "type": "double"
+  },
+  {
+   "id": "value_rs_in_crore___2021_22___q1",
+   "name": "Value (Rs. in crore) - 2021-22 - Q1",
+   "type": "double"
+  },
+  {
+   "id": "value_rs_in_crore___2021_22___q2",
+   "name": "Value (Rs. in crore) - 2021-22 - Q2",
+   "type": "double"
+  },
+  {
+   "id": "value_rs_in_crore___2021_22__q3",
+   "name": "Value (Rs. in crore) - 2021-22- Q3",
+   "type": "double"
+  },
+  {
+   "id": "value_rs_in_crore___2021_22__q4",
+   "name": "Value (Rs. in crore) - 2021-22- Q4",
+   "type": "double"
+  },
+  {
+   "id": "value_rs_in_crore___2022_23__q1",
+   "name": "Value (Rs. in crore) - 2022-23- Q1",
+   "type": "double"
+  },
+  {
+   "id": "growth_rate___2021_22__q1",
+   "name": "Growth Rate (%) - 2021-22- Q1",
+   "type": "double"
+  },
+  {
+   "id": "growth_rate___2021_22___q2",
+   "name": "Growth Rate (%) - 2021-22 - Q2",
+   "type": "double"
+  }
+ ],
+ "status": "ok",
+ "total": 2,
+ "count": 2,
+ "records": [
+  {
+   "document_id": 1,
+   "item": "GDP",
+   "value_rs_in_crore___2020_21___q1": "1000",
+   "value_rs_in_crore___2020_21___q2": "1001",
+   "value_rs_in_crore___2020_21___q3": "1002",
+   "value_rs_in_crore___2020_21___q4": "1003",
+   "value_rs_in_crore___2021_22___q1": "1004",
+   "value_rs_in_crore___2021_22___q2": "1005",
+   "value_rs_in_crore___2021_22__q3": "1006",
+   "value_rs_in_crore___2021_22__q4": "1007",
+   "value_rs_in_crore___2022_23__q1": "1008",
+   "growth_rate___2021_22__q1": "NA",
+   "growth_rate___2021_22___q2": "8.4"
+  },
+  {
+   "document_id": 2,
+   "item": "GVA at Basic Price",
+   "value_rs_in_crore___2020_21___q1": "2000",
+   "value_rs_in_crore___2020_21___q2": "2001",
+   "value_rs_in_crore___2020_21___q3": "2002",
+   "value_rs_in_crore___2020_21___q4": "2003",
+   "value_rs_in_crore___2021_22___q1": "2004",
+   "value_rs_in_crore___2021_22___q2": "2005",
+   "value_rs_in_crore___2021_22__q3": "2006",
+   "value_rs_in_crore___2021_22__q4": "2007",
+   "value_rs_in_crore___2022_23__q1": "2008",
+   "growth_rate___2021_22__q1": "NA",
+   "growth_rate___2021_22___q2": "NA"
+  }
+ ]
+}

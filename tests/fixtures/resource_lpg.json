@@ -1,0 +1,58 @@
+{
+ "index_name": "84f8814d-288b-4f25-a18e-86e5453ce510",
+ "title": "State-wise and Company-wise LPG Distributors as on 31st March, 2019",
+ "updated_date": "2022-11-24T14:57:00Z",
+ "field": [
+  {
+   "id": "document_id",
+   "name": "document_id",
+   "type": "double"
+  },
+  {
+   "id": "region",
+   "name": "Region",
+   "type": "keyword"
+  },
+  {
+   "id": "state_ut",
+   "name": "State/UT",
+   "type": "keyword"
+  },
+  {
+   "id": "iocl___as_on_31_03_2019",
+   "name": "IOCL - As on 31.03.2019",
+   "type": "double"
+  },
+  {
+   "id": "total___as_on_31_03_2019",
+   "name": "Total - As on 31.03.2019",
+   "type": "double"
+  },
+  {
+   "id": "total_as_on_31_03_2018",
+   "name": "Total as on 31.03.2018",
+   "type": "double"
+  }
+ ],
+ "status": "ok",
+ "total": 2,
+ "count": 2,
+ "records": [
+  {
+   "document_id": 1,
+   "region": "East",
+   "state_ut": "Odisha",
+   "iocl___as_on_31_03_2019": "300",
+   "total___as_on_31_03_2019": "500",
+   "total_as_on_31_03_2018": "450"
+  },
+  {
+   "document_id": 2,
+   "region": "East",
+   "state_ut": "West Bengal",
+   "iocl___as_on_31_03_2019": "700",
+   "total___as_on_31_03_2019": "1100",
+   "total_as_on_31_03_2018": "1000"
+  }
+ ]
+}

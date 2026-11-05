@@ -1,0 +1,166 @@
+{
+ "message": "Resource lists",
+ "status": "ok",
+ "total": 3,
+ "count": 3,
+ "limit": "100",
+ "offset": "0",
+ "records": [
+  {
+   "index_name": "a56b86d1-f00e-4ee4-ab08-5b5367b3fab2",
+   "title": "Quarterly Estimates of GDP at Constant (2011-12) Prices from 2011-12 to 2022-23",
+   "desc": "Quarterly Estimates of GDP at Constant (2011-12) Prices",
+   "updated_date": "2023-02-13T14:10:19Z",
+   "org": [
+    "Ministry of Statistics and Programme Implementation"
+   ],
+   "sector": [
+    "Finance",
+    "Economy",
+    "Statistics"
+   ],
+   "field": [
+    {
+     "id": "document_id",
+     "name": "document_id",
+     "type": "double"
+    },
+    {
+     "id": "item",
+     "name": "Item",
+     "type": "keyword"
+    },
+    {
+     "id": "value_rs_in_crore___2020_21___q1",
+     "name": "Value (Rs. in crore) - 2020-21 - Q1",
+     "type": "double"
+    },
+    {
+     "id": "value_rs_in_crore___2020_21___q2",
+     "name": "Value (Rs. in crore) - 2020-21 - Q2",
+     "type": "double"
+    },
+    {
+     "id": "value_rs_in_crore___2020_21___q3",
+     "name": "Value (Rs. in crore) - 2020-21 - Q3",
+     "type": "double"
+    },
+    {
+     "id": "value_rs_in_crore___2020_21___q4",
+     "name": "Value (Rs. in crore) - 2020-21 - Q4",
+     "type": "double"
+    },
+    {
+     "id": "value_rs_in_crore___2021_22___q1",
+     "name": "Value (Rs. in crore) - 2021-22 - Q1",
+     "type": "double"
+    },
+    {
+     "id": "value_rs_in_crore___2021_22___q2",
+     "name": "Value (Rs. in crore) - 2021-22 - Q2",
+     "type": "double"
+    },
+    {
+     "id": "value_rs_in_crore___2021_22__q3",
+     "name": "Value (Rs. in crore) - 2021-22- Q3",
+     "type": "double"
+    },
+    {
+     "id": "value_rs_in_crore___2021_22__q4",
+     "name": "Value (Rs. in crore) - 2021-22- Q4",
+     "type": "double"
+    },
+    {
+     "id": "value_rs_in_crore___2022_23__q1",
+     "name": "Value (Rs. in crore) - 2022-23- Q1",
+     "type": "double"
+    },
+    {
+     "id": "growth_rate___2021_22__q1",
+     "name": "Growth Rate (%) - 2021-22- Q1",
+     "type": "double"
+    },
+    {
+     "id": "growth_rate___2021_22___q2",
+     "name": "Growth Rate (%) - 2021-22 - Q2",
+     "type": "double"
+    }
+   ]
+  },
+  {
+   "index_name": "84f8814d-288b-4f25-a18e-86e5453ce510",
+   "title": "State-wise and Company-wise LPG Distributors as on 31st March, 2019",
+   "desc": "",
+   "updated_date": "2022-11-24T14:57:00Z",
+   "org": [
+    "Ministry of Petroleum and Natural Gas"
+   ],
+   "sector": [
+    "Industries",
+    "Petroleum and Natural Gas"
+   ],
+   "field": [
+    {
+     "id": "document_id",
+     "name": "document_id",
+     "type": "double"
+    },
+    {
+     "id": "region",
+     "name": "Region",
+     "type": "keyword"
+    },
+    {
+     "id": "state_ut",
+     "name": "State/UT",
+     "type": "keyword"
+    },
+    {
+     "id": "iocl___as_on_31_03_2019",
+     "name": "IOCL - As on 31.03.2019",
+     "type": "double"
+    },
+    {
+     "id": "total___as_on_31_03_2019",
+     "name": "Total - As on 31.03.2019",
+     "type": "double"
+    },
+    {
+     "id": "total_as_on_31_03_2018",
+     "name": "Total as on 31.03.2018",
+     "type": "double"
+    }
+   ]
+  },
+  {
+   "index_name": "69cb14a5-981c-4137-b82c-d7c6c09867b5",
+   "title": "Economic Indicators of OPEC Nations during 2018",
+   "desc": "",
+   "updated_date": "2022-11-24T15:51:34Z",
+   "org": [
+    "Ministry of Petroleum and Natural Gas"
+   ],
+   "sector": [
+    "Industries",
+    "Petroleum and Natural Gas"
+   ],
+   "field": [
+    {
+     "id": "document_id",
+     "name": "document_id",
+     "type": "double"
+    },
+    {
+     "id": "country",
+     "name": "Country",
+     "type": "keyword"
+    },
+    {
+     "id": "population___million_",
+     "name": "Population - (Million)",
+     "type": "double"
+    }
+   ]
+  }
+ ]
+}
