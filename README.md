@@ -1,4 +1,4 @@
-# datagovin-mcp
+# india-data
 ![Claude answering a GDP question using datagovin-mcp](docs/demo.gif)
 
 An [MCP](https://modelcontextprotocol.io) server that lets LLMs like Claude search and query
@@ -42,7 +42,7 @@ data.gov.in data is published as-is by each ministry, and it is messy in ways th
 2. Install with [uv](https://docs.astral.sh/uv/):
 
 ```bash
-git clone https://github.com/Oolrich/datagovin-mcp && cd datagovin-mcp
+git clone https://github.com/Oolrich/india-data && cd india-data
 uv sync --extra dev
 ```
 
@@ -62,7 +62,7 @@ Add this to `claude_desktop_config.json` (Settings → Developer → Edit Config
   "mcpServers": {
     "data-gov-in": {
       "command": "uv",
-      "args": ["--directory", "/absolute/path/to/datagovin-mcp", "run", "datagovin-mcp"],
+      "args": ["--directory", "/absolute/path/to/india-data", "run", "datagovin-mcp"],
       "env": { "DATA_GOV_IN_API_KEY": "your-key" }
     }
   }
